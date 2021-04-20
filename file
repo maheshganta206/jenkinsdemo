@@ -1,3 +1,4 @@
 echo " we are happy we woke up early today "
 testing git fetch and git pull
 testing git pull now
+git push test without running git pull
